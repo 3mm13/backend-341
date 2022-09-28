@@ -1,0 +1,23 @@
+{
+    "contact": {
+        "firstName": "taylor",
+        "lastName": "Channy",
+        "email": "taylorrchandler@gmail.com",
+        "favoriteColor": "blue",
+        "birthday": "06-07-1996"
+    },
+    "contact2": {
+        "firstName": "linc",
+        "lastName": "Channy",
+        "email": "lincrchandler@gmail.com",
+        "favoriteColor": "red",
+        "birthday": "03-03-2021"
+    },
+    "contact3": {
+        "firstName": "emmy",
+        "lastName": "Channy",
+        "email": "emmychanny@gmail.com",
+        "favoriteColor": "blue",
+        "birthday": "05-10-1998"
+    }
+}
